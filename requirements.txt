@@ -176,7 +176,7 @@ requests==2.27.1
     # via
     #   django-anymail
     #   django-healthchecks
-rfc3986[idna2008]==1.5.0
+rfc3986[idna2008]==2.0.0
     # via httpx
 s3transfer==0.5.1
     # via boto3
